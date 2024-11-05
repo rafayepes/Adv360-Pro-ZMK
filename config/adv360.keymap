@@ -76,7 +76,7 @@
 
         layer_Gallium {
             bindings = <
-&trans  &trans  &trans  &trans  &trans  &trans  &tog 4                                                                          &trans     &trans  &trans  &trans    &trans    &trans     &trans
+&trans  &trans  &trans  &trans  &trans  &trans  &trans                                                                          &trans     &trans  &trans  &trans    &trans    &trans     &trans
 &trans  &kp B   &kp L   &kp D   &kp C   &kp V   &trans                                                                          &trans     &kp J   &kp Y   &kp O     &kp U     &kp COMMA  &trans
 &trans  &kp N   &kp R   &kp T   &kp S   &kp G   &trans         &kp LEFT_CONTROL  &kp LEFT_ALT      &kp LGUI  &kp RIGHT_CONTROL  &trans     &kp P   &kp H   &kp A     &kp E     &kp I      &trans
 &trans  &kp X   &kp Q   &kp M   &kp W   &kp Z                                    &trans            &trans                                  &kp K   &kp F   &kp APOS  &kp SEMI  &kp DOT    &trans
