@@ -82,11 +82,11 @@
 
         sym_layer_alt {
             bindings = <
-&trans  &trans     &trans     &trans    &trans     &trans             &trans                                             &trans  &trans  &trans  &trans  &trans  &trans  &trans
-&trans  &kp LPAR   &kp LBKT   &kp RBKT  &kp RPAR   &kp GRAVE          &trans                                             &trans  &trans  &trans  &trans  &trans  &trans  &trans
-&trans  &kp AT     &kp LBRC   &kp RBRC  &kp EQUAL  &kp SQT            &trans    &trans    &trans         &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
-&trans  &kp TILDE  &kp UNDER  &kp PLUS  &kp BSLH   &kp DOUBLE_QUOTES                      &trans         &trans                  &trans  &trans  &trans  &trans  &trans  &trans
-&trans  &trans     &trans     &trans    &trans                        &kp AMPS  &kp SEMI  &kp COMMA      &trans  &trans  &trans          &trans  &trans  &trans  &trans  &trans
+&trans  &trans     &trans     &trans    &trans     &trans             &trans                                                  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+&trans  &kp LPAR   &kp LBKT   &kp RBKT  &kp RPAR   &kp GRAVE          &trans                                                  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+&trans  &kp AT     &kp LBRC   &kp RBRC  &kp EQUAL  &kp SQT            &trans     &trans    &trans             &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+&trans  &kp TILDE  &kp UNDER  &kp PLUS  &kp BSLH   &kp DOUBLE_QUOTES                       &trans             &trans                  &trans  &trans  &trans  &trans  &trans  &trans
+&trans  &trans     &trans     &trans    &trans                        &kp COMMA  &kp SEMI  &kp AMPERSAND      &trans  &trans  &trans          &trans  &trans  &trans  &trans  &trans
             >;
         };
 
