@@ -55,15 +55,15 @@
 
             // favor taps unless you actually start another key
 
-            flavor = "tap-unless-interrupted"; // or "tap-preferred"
-            tapping-term-ms = <300>;           // try 250–320
-            quick-tap-ms = <130>;              // optional
+            flavor = "balanced"; // or "tap-preferred"
+            tapping-term-ms = <280>;           // try 250–320
+            quick-tap-ms = <175>;              // optional
             bindings = <&mo>, <&kp>;
 
             // hold -> &mo, tap -> &kp
 
-            require-prior-idle-ms = <0>;
-            retro-tap;
+            require-prior-idle-ms = <150>;
+            hold-trigger-on-release;
         };
 
         lt_enter: lt_enter {
