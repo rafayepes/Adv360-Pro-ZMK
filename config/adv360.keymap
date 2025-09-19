@@ -110,7 +110,7 @@
 &trans  &trans         &trans                &trans                 &trans            &trans        &trans                                                    &trans  &trans              &trans                      &trans              &trans                &trans                    &trans
 &trans  &kp COMMA      &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp EXCLAMATION   &kp QUESTION  &trans                                                    &trans  &kp GRAVE           &kp LEFT_ARROW              &kp UP_ARROW        &kp DOWN_ARROW        &kp RIGHT_ARROW           &trans
 &trans  &kp HASH       &kp CARET             &kp EQUAL              &kp DOLLAR        &kp ASTERISK  &trans      &trans     &trans             &trans  &trans  &trans  &lt 3 SINGLE_QUOTE  &hmr RIGHT_SHIFT BACKSPACE  &hmr RIGHT_WIN TAB  &hmr RIGHT_ALT SPACE  &hmr RIGHT_CONTROL ENTER  &trans
-&trans  &kp LESS_THAN  &kp PIPE              &kp MINUS              &kp GREATER_THAN  &kp SLASH                            &trans             &trans                  &kp DOUBLE_QUOTES   &kp DELETE                  &kp LS(TAB)         &kp HOME              &kp END                   &trans
+&trans  &kp LESS_THAN  &kp PIPE              &kp MINUS              &kp GREATER_THAN  &kp SLASH                            &trans             &trans                  &kp DOUBLE_QUOTES   &lt 3 DELETE                &kp LS(TAB)         &kp HOME              &kp END                   &trans
 &trans  &trans         &trans                &trans                 &trans                          &kp PERIOD  &kp COLON  &kp AMPERSAND      &trans  &trans  &trans                      &trans                      &trans              &trans                &trans                    &trans
             >;
         };
